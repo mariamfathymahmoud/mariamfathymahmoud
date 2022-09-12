@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm mariam mahmoud</h1>
 <h3 align="center">Computer Engineering Student , Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamfathymahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mariamfathymahmoud" /> </p>
+
 
 - 🔭 I’m currently working on [TodoList](https://github.com/mariamfathymahmoud/TodoList-React-js)
 
