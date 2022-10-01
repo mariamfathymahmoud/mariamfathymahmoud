@@ -4,10 +4,6 @@
 
 
 
-- 🔭 I’m currently working on [TodoList](https://github.com/mariamfathymahmoud/TodoList-React-js)
-
-- 🌱 I’m currently learning **ReactJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mariamfathymahmoud](https://github.com/mariamfathymahmoud)
 
 - 📫 How to reach me **mariamatmahmoud@gmail.com**
